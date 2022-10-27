@@ -35,6 +35,14 @@
 			- cmd + p > Excalidraw
 				- new | open
 				- new pane | popup
+	- Spaced Repetition
+		- Install & Enable
+		- 새 노트 만들기
+			- 노트에 태그 추가 `#flashcards`
+			- 카드 만들기
+				- 질문::답변
+				- 질문<br>?<br>답변
+			- cmd + p > Review flashcards in this note
 	- 그 밖의 플러그인들
 		- ![[Pasted image 20221027133957.png]]
 - 파일 디렉토리 세팅하기
