@@ -19,8 +19,16 @@
 			- 위로 옮기기 : cmd + shift + up
 			- 아래로 옮기기 : cmd + shift + down
 	- Obsidian git
-		- Install & Enagle
-		- 
+		- Install & Enable
+		- github repo 생성
+		- obsidian vault 디렉토리에서 git initialize
+		- 이후는 컨트롤 패널에서 작업 프로세스
+			- 기본 검색 
+				- cmd + p > git
+			- 커밋하기
+				- cmd + p > commit with message
+			- 푸시하기
+				- cmd + p > push
 	- Excalidraw
 		- Install & Enable
 		- 새 노트 열기
