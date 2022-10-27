@@ -11,8 +11,12 @@
             "id": "3897e2ed256b1179",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Plugins & Theme 등등.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plugins & Theme 등등.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Plugins & Theme 등등.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Plugins & Theme 등등.md"
+              }
             }
           }
         ]
@@ -133,9 +141,10 @@
   },
   "active": "3897e2ed256b1179",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-10-27 14.41.25.excalidraw.md",
+    "기본 문법.md",
     "CSS.md",
-    "Plugins & Theme.md",
+    "Excalidraw/Drawing 2022-10-27 14.41.25.excalidraw.md",
+    "Plugins & Theme 등등.md",
     "attachments/Pasted image 20221027133225.png",
     "Excalidraw/Drawing 2022-10-27 14.43.06.excalidraw.md"
   ]
