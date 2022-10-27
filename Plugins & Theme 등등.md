@@ -40,7 +40,7 @@
 - 파일 디렉토리 세팅하기
 	- new folder > attatchments
 	- context menu > Set as attachment folder
-- 단축키
+- 기본 단축키
 	- 액션 패널
 		- cmd + p
 	- 노트 검색
@@ -49,3 +49,9 @@
 		- cmd + e
 	- 설정
 		- cmd + ,
+- 단축키 수정하기
+	- 설정 > Hotkeys > navigate
+	- navigate back
+		- `cmd + [`
+	- navigate forward
+		- `cmd + ]`
