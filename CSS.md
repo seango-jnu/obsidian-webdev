@@ -1,6 +1,4 @@
 - ## 참조
-	- 이것 하나로 갑시다.
-		- https://web.dev/learn/css/
 	- w3school
 		- tutorial
 			- https://www.w3schools.com/css/default.asp
@@ -20,17 +18,21 @@
 	- codepen
 		- html/css/javascript 를 간단하게 테스트 & 공유하기
 		- https://codepen.io/
+	- 이것 하나로 갑시다.
+		- https://web.dev/learn/css/
 - ## CSS 가 뭔가요?
-	- CSS 는 사용자에게 문서를 표시하는 방법을 지정하는 언어입니다 — 스타일, 레이아웃 등.
+	- CSS 는 사용자에게 문서를 표시하는 방법을 지정하는 언어입니다.
 	- 왜 필요한가요?
 		- 문서의 매력과 가독성을 높입니다.
-		- html 에 스타일을 표현하면 문서의 데이터적인 의미를 찾기 힘들어 집니다.
+		- html 에 스타일을 직접 표현하면 문서의 데이터적인 의미를 찾기 힘들어 집니다.
+		- 문서의 스타일은 CSS 로 분리시켜서 문서의 의미를 해치지 않게 합니다.
 		- 키워드 : 시맨틱 마크업
 - ## Cascading Style Sheet
 	- ![[Pasted image 20221027135138.png]]
-	- https://web.dev/learn/css/the-cascade/
-		- 먼저 지정한 스타일보다 나중에 지정한 스타일이 우선합니다.
-		- html 태그상 자식 태그의 스타일이 상속되는 부모 태그의 스타일을 우선합니다.
+	- 먼저 지정한 스타일보다 나중에 지정한 스타일이 우선합니다.
+	- html 태그상 자식 태그의 스타일이 상속되는 부모 태그의 스타일을 우선합니다.
+	- web.dev : https://web.dev/learn/css/the-cascade/
+	- [[Cascading Codepen 예제]]
 - ## [[기본 문법]]
 - ## html 에 적용하는 방법
 	- inline style

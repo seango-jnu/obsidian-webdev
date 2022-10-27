@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS.md",
+                "file": "Cascading Codepen 예제.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS.md",
+                "file": "Cascading Codepen 예제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS.md",
+                "file": "Cascading Codepen 예제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS.md"
+                "file": "Cascading Codepen 예제.md"
               }
             }
           }
@@ -141,8 +141,9 @@
   },
   "active": "81b8959c5ea53147",
   "lastOpenFiles": [
-    "Plugins & Theme 등등.md",
     "CSS.md",
+    "Cascading Codepen 예제.md",
+    "Plugins & Theme 등등.md",
     "기본 문법.md",
     "Excalidraw/Drawing 2022-10-27 14.41.25.excalidraw.md",
     "attachments/Pasted image 20221027133225.png",
