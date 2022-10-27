@@ -1,0 +1,82 @@
+- ## 참조
+	- 이것 하나로 갑시다.
+		- https://web.dev/learn/css/
+	- w3school
+		- tutorial
+			- https://www.w3schools.com/css/default.asp
+		- 레퍼런스
+			- https://www.w3schools.com/cssref/index.php
+		- 퀴즈
+			- https://www.w3schools.com/css/css_quiz.asp
+	- MDN
+		- tutorial
+			- https://developer.mozilla.org/ko/docs/Web/CSS
+		- 레퍼런스
+			- https://developer.mozilla.org/ko/docs/Web/CSS/Reference
+		- Validation 체크 툴
+			- https://validator.w3.org/
+	- w3c : 가이드를 만드는 곳
+		- https://www.w3.org/
+	- codepen
+		- html/css/javascript 를 간단하게 테스트 & 공유하기
+		- https://codepen.io/
+- ## CSS 가 뭔가요?
+	- CSS 는 사용자에게 문서를 표시하는 방법을 지정하는 언어입니다 — 스타일, 레이아웃 등.
+	- 왜 필요한가요?
+		- 문서의 매력과 가독성을 높입니다.
+		- html 에 스타일을 표현하면 문서의 데이터적인 의미를 찾기 힘들어 집니다.
+		- 키워드 : 시맨틱 마크업
+- ## Cascading Style Sheet
+	- ![[Pasted image 20221027135138.png]]
+	- https://web.dev/learn/css/the-cascade/
+		- 먼저 지정한 스타일보다 나중에 지정한 스타일이 우선합니다.
+		- html 태그상 자식 태그의 스타일이 상속되는 부모 태그의 스타일을 우선합니다.
+- ## 기본 문법
+- ## html 에 적용하는 방법
+	- inline style
+	- style 태그안에
+	- css 외부 파일 이요
+- ## 프린트용 CSS 적용하는 방법
+- ## 컬러,  폰트사이즈 변경해 보기
+- ## CSS에서 컬러를 표현하는 방법
+- ## CSS에서 사이즈를 표현하는 방법
+- ## 상속
+- ## 셀렉터
+- ## 명시도
+	- 한글 : https://developer.mozilla.org/ko/docs/Web/CSS/Specificity
+	- 테이블로 정리 : https://www.w3schools.com/css/css_specificity.asp
+- ## 자주 사용하는 속성들
+	- width, height
+	- 글자관련 속성들
+		- font
+			- font-size
+			- font-color
+			- font-family
+		- letter-spacing
+		- word-spacing
+		- line-height
+		- text-align
+	- border
+	- background
+	- position
+		- z-index
+	- overflow
+	- float
+	- margin
+	- padding
+	- display
+	- visibility
+- ## 리스트 스타일
+- ## 박스모델
+- ## 레이아웃
+- ## 심화 태그
+	- Pseudo-elements
+	- Pseudo-classes
+	- Shadow
+- ## FLEX
+- ## GRID
+- ## Transition
+- ## Gradient
+- ## Animation
+- ## Filter
+- ## Function

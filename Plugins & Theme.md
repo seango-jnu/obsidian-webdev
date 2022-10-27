@@ -1,0 +1,34 @@
+- Theme
+	- Light Mode 사용하기
+		- 설정 > Appearance > Base color shceme > Light 선택
+	- Everforest 테마 설치하기
+		- 설정 > Appearance > Themes > Manage > Everfoest install and use
+	- 에디터 width 100%로 변경하기
+		- 설정 > Appearance > Themes > open themes folder
+		- Everforest 폴더 > theme.css 파일 에디터로 열기
+		- body 영역에 `--file-line-width: 100%;` 추가하기
+			- ![[Pasted image 20221027133225.png]]
+		- img 스타일 주석 처리하기
+			- ![[Pasted image 20221027133539.png]]
+- Plugins
+	- Outliner
+		- 설정 > Community plugins > Browse > Outliner > Install & Enable
+		- 단축키
+			- 접기 : cmd + up
+			- 펼치기 : cmd + down
+			- 위로 옮기기 : cmd + shift + up
+			- 아래로 옮기기 : cmd + shift + down
+	- Obsidian git
+		- Install & Enagle
+		- 
+	- Excalidraw
+		- Install & Enable
+		- 새 노트 열기
+			- cmd + p > Excalidraw
+				- new | open
+				- new pane | popup
+	- 그 밖의 플러그인들
+		- ![[Pasted image 20221027133957.png]]
+- 파일 디렉토리 세팅하기
+	- new folder > attatchments
+	- context menu > Set as attachment folder
