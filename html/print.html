@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Print</title>
+    <style>
+        header, main, footer {
+            border: 3px solid deeppink;
+            margin: 10px 0;
+        }
+        @media print {
+            header, footer {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="wrapper">
+    <header>
+        <h1>header</h1>
+        <ul>
+            <li>메뉴1</li>
+            <li>메뉴1</li>
+            <li>메뉴1</li>
+            <li>메뉴1</li>
+        </ul>
+    </header>
+    <main>
+        <h1>main</h1>
+        <section>
+            main contents<br>
+            main contents<br>
+            main contents<br>
+            main contents<br>
+            main contents<br>
+        </section>
+    </main>
+    <footer>
+        <h1>footer</h1>
+        copyright@...
+    </footer>
+</div>
+</body>
+</html>

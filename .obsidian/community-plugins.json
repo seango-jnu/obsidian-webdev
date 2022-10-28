@@ -2,5 +2,7 @@
   "obsidian-outliner",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "obsidian-spaced-repetition"
+  "obsidian-spaced-repetition",
+  "obsidian-link-converter",
+  "obsidian-html-plugin"
 ]

@@ -11,14 +11,14 @@
 		- img 스타일 주석 처리하기
 			- ![[Pasted image 20221027133539.png]]
 - Plugins
-	- Outliner
+	- Outliner %% fold %%
 		- 설정 > Community plugins > Browse > Outliner > Install & Enable
 		- 단축키
 			- 접기 : cmd + up
 			- 펼치기 : cmd + down
 			- 위로 옮기기 : cmd + shift + up
 			- 아래로 옮기기 : cmd + shift + down
-	- Obsidian git
+	- Obsidian git %% fold %%
 		- Install & Enable
 		- github repo 생성
 		- obsidian vault 디렉토리에서 git initialize
@@ -29,26 +29,26 @@
 				- cmd + p > commit with message
 			- 푸시하기
 				- cmd + p > push
-	- Excalidraw
+	- Excalidraw %% fold %%
 		- Install & Enable
 		- 새 노트 열기
 			- cmd + p > Excalidraw
 				- new | open
 				- new pane | popup
-	- Spaced Repetition
+	- Spaced Repetition %% fold %%
 		- Install & Enable
 		- 새 노트 만들기
 			- 노트에 태그 추가 `#flashcards`
-			- 카드 만들기
+			- 카드 만들기 %% fold %%
 				- 질문::답변
 				- 질문<br>?<br>답변
 			- cmd + p > Review flashcards in this note
-	- 그 밖의 플러그인들
+	- 그 밖의 플러그인들 
 		- ![[Pasted image 20221027133957.png]]
-- 파일 디렉토리 세팅하기
+- 파일 디렉토리 세팅하기 
 	- new folder > attatchments
 	- context menu > Set as attachment folder
-- 기본 단축키
+- 기본 단축키 
 	- 액션 패널
 		- cmd + p
 	- 노트 검색
@@ -57,7 +57,7 @@
 		- cmd + e
 	- 설정
 		- cmd + ,
-- 단축키 수정하기
+- 단축키 수정하기 
 	- 설정 > Hotkeys > navigate
 	- navigate back
 		- `cmd + [`
