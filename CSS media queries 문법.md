@@ -32,4 +32,5 @@
 ## 대표적인 expressions
 - max-width
 - min-width
-- orientation: landscape | landscape
+- orientation: portrait | landscape
+- (-webkit-min-device-pixel-ratio: 1.5)
