@@ -1,0 +1,38 @@
+
+- px
+  - absolute
+  - 1px = 1/96th of 1in
+- %
+  - relative
+  - width, height는 일반적
+  - padding, maring은 width를 기준으로 함
+  - font-size는 상속 받는 것을 기준으로 함
+- em
+  - relative
+  - 반응형웹
+  - parent의 font-size를 기준으로 함
+  - px-em converter
+    - https://www.w3schools.com/cssref/css_pxtoemconversion.php
+  - 읽어볼 거리
+    - https://www.w3.org/Style/LieBos3e/em
+- rem
+  - relative
+  - root element의 font-size를 기준으로 함(보통 16px)
+- vh
+  - relative
+  - 1% of viewport's height.
+  - 0~100
+- vw
+  - relative
+  - 1% of viewport's width.
+  - 0~100
+- 단위없는 숫자
+  - 0-255
+  - 1.5
+- deg, turn...
+  - 각도, angle units
+  - https://web.dev/learn/css/sizing/#angle-units
+- 문서 한번 볼까요
+  - https://www.w3schools.com/cssref/css_units.php
+  - https://developer.mozilla.org/ko/docs/Learn/CSS/Building_blocks/Values_and_units
+  - https://web.dev/learn/css/sizing/

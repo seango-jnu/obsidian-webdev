@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "b43bee68c9737d58",
-        "type": "tabs",
+        "id": "ce6b02741263b036",
+        "type": "split",
         "children": [
           {
-            "id": "4e98aa1a14652a30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. CSS with heading.md",
-                "mode": "preview",
-                "source": false
+            "id": "b43bee68c9737d58",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4e98aa1a14652a30",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "상속.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "5f61778e95e298f4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "71754b476b8123ff",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -86,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. CSS with heading.md",
+                "file": "상속.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. CSS with heading.md",
+                "file": "상속.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. CSS with heading.md"
+                "file": "상속.md"
               }
             }
           },
@@ -147,15 +168,15 @@
   },
   "active": "4e98aa1a14652a30",
   "lastOpenFiles": [
-    "daum, naver sampe.md",
     "00. CSS with heading.md",
+    "수업 전에.md",
+    "레이아웃.md",
     "00. CSS.md",
-    "00. CSS with heading with mindmap.md",
-    "CSS media queries 문법.md",
-    "html 에 CSS 적용하는 방법.md",
-    "Flashcards - English.md",
-    "기본 문법.md",
-    "Cascading Codepen 예제.md",
-    "세부내용.md"
+    "레이아웃 기본.md",
+    "명시도.md",
+    "Pseudo Element.md",
+    "Pseudo Class.md",
+    "셀렉터.md",
+    "상속.md"
   ]
 }

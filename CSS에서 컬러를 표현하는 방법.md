@@ -1,0 +1,28 @@
+
+- keywords
+  - https://www.w3schools.com/cssref/css_colors.php
+  - intelliJ에서 `color:` 치면 서제스트 해 줍니다.
+- hexadecimal, hexadecimal + transparency
+  - rgb 포멧 : `#RRGGBB`
+  - rgba 포멧 : `#RRGGBBAA`
+  - 16진수(0-255)이기 때문에 사람이 계산해서 사용하기는 불편함
+  - 포토샵에서 사용하는 포맷
+- rgb, rgba
+  - rgb(255, 255, 255)
+    - rgb(255 255 255)
+  - rgba(255, 255, 255, 0.5) | rgba(255, 255, 255, 50%)
+    - rgba(255 255 255 / 0.5) | rgba(255 255 255 / 50%)
+- hsl, hsla
+  - rgb와 형식 동일함
+  - https://web.dev/learn/css/color/#hsl-hue,-saturation,-lightness
+- 읽어 보고 갈께요
+  - https://www.w3schools.com/cssref/css_colors_legal.php
+  - https://web.dev/learn/css/color/#hex-colors
+- 개발자가 컬러를 선택하는 방법
+  - 구글에서 `color palette` 검색하기
+  - ex : https://colorhunt.co/palette/b3ffaef8ffdbff6464ff7d7d
+- 웹툴
+  - https://pixlr.com/
+  - https://www.figma.com/
+    - https://www.figma.com/file/oIN28PNWDoluMIjvdy3TO0/Figma-Basics?node-id=0%3A495
+    - https://www.youtube.com/watch?v=N_OYciAa3sU

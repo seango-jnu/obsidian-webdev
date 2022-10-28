@@ -1,0 +1,15 @@
+
+- 특별한 상태에 대한 CSS 처리를 가능하게 합니다.
+- 자주 사용하는 수도 클래스 속성
+  - :link
+  - :visited
+  - :hover
+  - :focus
+  - :checked
+  - :first-child
+  - :last-child
+  - :nth-child()
+- 참조
+  - https://www.w3schools.com/css/css_pseudo_classes.asp
+  - https://web.dev/learn/css/pseudo-classes/
+  - https://developer.mozilla.org/ko/docs/Web/CSS/Pseudo-classes
