@@ -18,7 +18,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "상속.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   }
                 }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7e386ecdf9273d52",
