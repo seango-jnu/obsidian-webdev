@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>inherit</title>
+    <style>
+      .parent,
+      .other {
+        font-size: 50px;
+      }
+      .child {
+        font-size: inherit;
+      /*  inherit initial unset*/
+      }
+      [data-type] {
+          color: #da6362;
+      }
+
+    </style>
+</head>
+<body>
+<div class="parent">
+  parent
+  <div class="child">
+    child
+  </div>
+</div>
+<div data-type="xxx" class="other">
+  other
+</div>
+<div data-type="yyy">
+    other
+</div>
+</body>
+</html>

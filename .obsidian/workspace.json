@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS media queries 문법.md",
-                "mode": "source",
-                "source": true
+                "file": "00. CSS with heading.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS media queries 문법.md",
+                "file": "00. CSS with heading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS media queries 문법.md",
+                "file": "00. CSS with heading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS media queries 문법.md"
+                "file": "00. CSS with heading.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "4e98aa1a14652a30",
   "lastOpenFiles": [
+    "daum, naver sampe.md",
     "00. CSS with heading.md",
+    "00. CSS.md",
+    "00. CSS with heading with mindmap.md",
+    "CSS media queries 문법.md",
     "html 에 CSS 적용하는 방법.md",
     "Flashcards - English.md",
     "기본 문법.md",
     "Cascading Codepen 예제.md",
-    "세부내용.md",
-    "Outliner.md",
-    "2022 수업.md",
-    "웹개발.md",
-    "00. CSS.md"
+    "세부내용.md"
   ]
 }

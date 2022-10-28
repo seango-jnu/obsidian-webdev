@@ -3,13 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <title>Style</title>
-    <style type="text/css">
+    <style>
+
+        * {
+            box-sizing: border-box;
+        }
+
         .classname {
             color: red;
+        }
+
+        .parent {
+        }
+        .box {
+            /*visibility: hidden;*/
+            width: 200px;
+            height: 200px;
+            background-color: #B3FFAE;
+            border: 1px solid #F8FFDB;
+            color: #FF6464;
+            /*padding-left: 10px;*/
+            /*padding-left: 10%;*/
+            /*padding-top: 10%;*/
+            padding-left: 20px;
+            border-radius: 50%;
+        }
+        .box span {
+            background-color: #da6362;
+            color: #4e3e43;
+            /*display: block;*/
+            height: 50px;
+        }
+        .border-box {
+            /*margin: 10px;*/
+            padding-top: 10px;
+            width: 200px;
+            height: 200px;
+            border: 10px solid #da6362;
+            border-radius: 50%;
+            text-align: center;
         }
     </style>
 </head>
 <body>
-
+<div class="parent">
+    <div class="box">
+        박스를 만들어 봅시다.
+        <span>inline</span>
+    </div>
+    <div class="border-box">
+        동그라미 선
+    </div>
+</div>
 </body>
 </html>
